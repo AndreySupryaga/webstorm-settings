@@ -1,0 +1,27 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Console.TableResult.CopyAggregatorResult" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift meta alt c" />
+  </action>
+  <action id="CopyReference">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="List-selectFirstRow" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="RemoteHostView.CopyPaths" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
+  <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
+</keymap>

@@ -1,0 +1,22 @@
+<templateSet group="JavaScript">
+  <template name="d" value="debugger;" description="debugger;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="us" value="'use strict';&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="af" value="($PARAM$) =&gt; {&#10;    $END$&#10;}" description="Arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="afs" value="($PARAM$) =&gt; $END$" description="Arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

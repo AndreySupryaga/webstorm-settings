@@ -1,0 +1,7 @@
+<templateSet group="React">
+  <template name="pm" value="    .pipe(&#10;        map(item =&gt; {&#10;            console.log(item);&#10;            return item;&#10;        })&#10;    )" description="pipe map" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
