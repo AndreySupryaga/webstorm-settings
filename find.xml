@@ -1,18 +1,41 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.php5</mask>
+    <mask>*.module</mask>
+    <mask>*.phtml</mask>
+    <mask>*.hphp</mask>
+    <mask>*.ctp</mask>
+    <mask>*.php</mask>
+    <mask>guards.ts</mask>
+    <mask>*guard.ts</mask>
+    <mask>*helper.ts</mask>
+    <mask>*service.ts</mask>
+    <mask>*en.json</mask>
+    <mask>*api.service.ts</mask>
+    <mask>*reducer.ts</mask>
+    <mask>*actions.ts</mask>
+    <mask>*selectors.ts</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
-    <mask>*.htm</mask>
-    <mask>*.sht</mask>
+    <mask>*.shtml</mask>
     <mask>*.shtm</mask>
     <mask>*.ng</mask>
-    <mask>*.shtml</mask>
-    <mask>*.html</mask>
-    <mask>*.mts</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
     <mask>*.ats</mask>
-    <mask>*.cts</mask>
-    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*effects.ts</mask>
+    <mask>*.json</mask>
+    <mask>*.html</mask>
+    <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
