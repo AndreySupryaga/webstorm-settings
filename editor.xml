@@ -15,6 +15,13 @@
       </set>
     </option>
   </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="ts.type.hints" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
