@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*spec.ts" />
+    <option name="FILE_MASK" value="*service.spec.ts" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -39,5 +39,6 @@
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*spec.ts</mask>
+    <mask>*service.spec.ts</mask>
   </component>
 </application>
