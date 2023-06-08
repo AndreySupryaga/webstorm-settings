@@ -37,8 +37,8 @@
     <mask>*.html</mask>
     <mask>*spec.ts</mask>
     <mask>*service.spec.ts</mask>
-    <mask>*.ts</mask>
     <mask>*model.ts</mask>
     <mask>*.json</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
