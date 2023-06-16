@@ -33,12 +33,12 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*effects.ts</mask>
-    <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*service.spec.ts</mask>
     <mask>*model.ts</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*spec.ts</mask>
+    <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
