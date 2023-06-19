@@ -39,7 +39,7 @@
     <mask>*.html</mask>
     <mask>*component.spec.ts</mask>
     <mask>*.ts</mask>
-    <mask>*.json</mask>
     <mask>*spec.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
