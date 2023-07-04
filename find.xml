@@ -31,7 +31,6 @@
     <mask>*.js</mask>
     <mask>*service.spec.ts</mask>
     <mask>*model.ts</mask>
-    <mask>*.scss</mask>
     <mask>*service.ts</mask>
     <mask>*effects.ts</mask>
     <mask>*component.spec.ts</mask>
@@ -43,5 +42,6 @@
     <mask>*additional-info-cell-renderer.component.html</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
