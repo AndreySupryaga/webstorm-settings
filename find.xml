@@ -41,5 +41,7 @@
     <mask>*spec.ts</mask>
     <mask>*entity.service.ts</mask>
     <mask>*effects.spec.ts</mask>
+    <mask>*</mask>
+    <mask>*additional-info-cell-renderer.component.html</mask>
   </component>
 </application>
