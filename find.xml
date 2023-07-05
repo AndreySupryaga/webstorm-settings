@@ -39,9 +39,9 @@
     <mask>*effects.spec.ts</mask>
     <mask>*</mask>
     <mask>*additional-info-cell-renderer.component.html</mask>
-    <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*spec.ts</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
