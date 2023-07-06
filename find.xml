@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*reducer.ts" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -15,7 +18,6 @@
     <mask>*guard.ts</mask>
     <mask>*helper.ts</mask>
     <mask>*api.service.ts</mask>
-    <mask>*reducer.ts</mask>
     <mask>*actions.ts</mask>
     <mask>*selectors.ts</mask>
     <mask>*.xml</mask>
@@ -40,10 +42,11 @@
     <mask>*.scss</mask>
     <mask>*spec.ts</mask>
     <mask>*.ts</mask>
-    <mask>*.json</mask>
     <mask>*en.json</mask>
-    <mask>*effects.ts</mask>
     <mask>*component.ts</mask>
     <mask>*grid.component.ts</mask>
+    <mask>*.json</mask>
+    <mask>*effects.ts</mask>
+    <mask>*reducer.ts</mask>
   </component>
 </application>
