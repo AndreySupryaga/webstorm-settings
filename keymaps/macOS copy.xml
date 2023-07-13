@@ -4,6 +4,9 @@
   </action>
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="Console.TableResult.CopyAggregatorResult" />
   <action id="CopyAbsolutePath" />
   <action id="CopyPaths">
