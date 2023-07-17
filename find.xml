@@ -43,8 +43,8 @@
     <mask>*.json</mask>
     <mask>*additional-info-cell-renderer.component.html</mask>
     <mask>*.ts</mask>
+    <mask>*actions.ts</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
-    <mask>*actions.ts</mask>
   </component>
 </application>
