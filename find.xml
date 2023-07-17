@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -33,7 +34,6 @@
     <mask>*entity.service.ts</mask>
     <mask>*effects.spec.ts</mask>
     <mask>*</mask>
-    <mask>*.scss</mask>
     <mask>*en.json</mask>
     <mask>*component.ts</mask>
     <mask>*grid.component.ts</mask>
@@ -43,8 +43,9 @@
     <mask>*component.spec.ts</mask>
     <mask>*spec.ts</mask>
     <mask>*.json</mask>
-    <mask>*.html</mask>
     <mask>*additional-info-cell-renderer.component.html</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
