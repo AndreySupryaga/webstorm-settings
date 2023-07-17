@@ -15,7 +15,6 @@
     <mask>*guard.ts</mask>
     <mask>*helper.ts</mask>
     <mask>*api.service.ts</mask>
-    <mask>*actions.ts</mask>
     <mask>*selectors.ts</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
@@ -46,5 +45,6 @@
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*actions.ts</mask>
   </component>
 </application>
