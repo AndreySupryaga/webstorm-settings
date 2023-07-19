@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*spec.ts" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -40,7 +41,6 @@
     <mask>*reducer.ts</mask>
     <mask>*.spec.ts</mask>
     <mask>*component.spec.ts</mask>
-    <mask>*spec.ts</mask>
     <mask>*.json</mask>
     <mask>*additional-info-cell-renderer.component.html</mask>
     <mask>*.ts</mask>
@@ -48,5 +48,6 @@
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*effects.ts</mask>
+    <mask>*spec.ts</mask>
   </component>
 </application>
