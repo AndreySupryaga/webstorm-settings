@@ -46,7 +46,7 @@
     <mask>*effects.ts</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*spec.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
