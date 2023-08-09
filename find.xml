@@ -43,9 +43,9 @@
     <mask>*actions.ts</mask>
     <mask>*effects.ts</mask>
     <mask>*.scss</mask>
-    <mask>*spec.ts</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*module.ts</mask>
+    <mask>*spec.ts</mask>
   </component>
 </application>
