@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.php5</mask>
@@ -16,11 +16,7 @@
     <mask>guards.ts</mask>
     <mask>*guard.ts</mask>
     <mask>*helper.ts</mask>
-    <mask>*service.ts</mask>
-    <mask>*en.json</mask>
     <mask>*api.service.ts</mask>
-    <mask>*reducer.ts</mask>
-    <mask>*actions.ts</mask>
     <mask>*selectors.ts</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
@@ -32,10 +28,26 @@
     <mask>*.ats</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*effects.ts</mask>
+    <mask>*service.spec.ts</mask>
+    <mask>*model.ts</mask>
+    <mask>*service.ts</mask>
+    <mask>*entity.service.ts</mask>
+    <mask>*effects.spec.ts</mask>
+    <mask>*</mask>
+    <mask>*en.json</mask>
+    <mask>*component.ts</mask>
+    <mask>*grid.component.ts</mask>
+    <mask>*reducer.ts</mask>
+    <mask>*.spec.ts</mask>
+    <mask>*component.spec.ts</mask>
     <mask>*.json</mask>
-    <mask>*.html</mask>
-    <mask>*.ts</mask>
+    <mask>*additional-info-cell-renderer.component.html</mask>
+    <mask>*actions.ts</mask>
+    <mask>*effects.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.html</mask>
+    <mask>*module.ts</mask>
+    <mask>*spec.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>

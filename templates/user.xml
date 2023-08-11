@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="output" value="@Output() readonly $NAME$ = new EventEmitter&lt;$END$&gt;();" description="@Output()" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -30,4 +30,9 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="sc" value="&lt;ng-container [ngSwitch]=&quot;condition&quot;&gt;&#10;      &lt;ng-container *ngSwitchCase=&quot;case&quot;&gt;&#10;&#10;      &lt;/ng-container&gt;&#10;      &lt;ng-container *ngSwitchDefault&gt;&#10;          &#10;      &lt;/ng-container&gt;&#10;&lt;/ng-container&gt;" shortcut="TAB" description="ngSwitch" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
