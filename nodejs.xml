@@ -12,6 +12,9 @@
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.20.1/bin/node">
       <version-cache version="14.20.1" last-modified="1688026777232" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.6/bin/node">
+      <version-cache version="14.17.6" last-modified="1694509424156" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v14.17.0/bin/node">
       <version-cache version="14.17.0" last-modified="1685712907122" />
     </local-interpreter>
