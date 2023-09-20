@@ -4,6 +4,7 @@
       <mapping pattern=".zshrc.swp" type="PLAIN_TEXT" />
       <mapping ext="xps" type="PLAIN_TEXT" />
       <mapping ext="manifest" type="PLAIN_TEXT" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
