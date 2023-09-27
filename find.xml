@@ -39,7 +39,6 @@
     <mask>*en.json</mask>
     <mask>*component.ts</mask>
     <mask>*grid.component.ts</mask>
-    <mask>*reducer.ts</mask>
     <mask>*.spec.ts</mask>
     <mask>*component.spec.ts</mask>
     <mask>*additional-info-cell-renderer.component.html</mask>
@@ -51,5 +50,6 @@
     <mask>*effects.ts</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
+    <mask>*reducer.ts</mask>
   </component>
 </application>
