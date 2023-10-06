@@ -46,8 +46,8 @@
     <mask>*service.ts</mask>
     <mask>*reducer.ts</mask>
     <mask>*effects.ts</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
     <mask>*component.ts</mask>
   </component>
 </application>
