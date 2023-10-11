@@ -46,8 +46,8 @@
     <mask>*reducer.ts</mask>
     <mask>*effects.ts</mask>
     <mask>*component.ts</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
