@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*dialog*.html" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -47,5 +48,6 @@
     <mask>*.scss</mask>
     <mask>*effects.ts</mask>
     <mask>*.ts</mask>
+    <mask>*dialog*.html</mask>
   </component>
 </application>
