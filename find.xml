@@ -3,11 +3,12 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -38,7 +39,6 @@
     <mask>*grid.component.ts</mask>
     <mask>*.spec.ts</mask>
     <mask>*additional-info-cell-renderer.component.html</mask>
-    <mask>*module.ts</mask>
     <mask>*service.ts</mask>
     <mask>*reducer.ts</mask>
     <mask>*component.ts</mask>
@@ -51,5 +51,6 @@
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*module.ts</mask>
   </component>
 </application>
