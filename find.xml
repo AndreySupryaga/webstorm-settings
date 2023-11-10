@@ -43,12 +43,12 @@
     <mask>*.json</mask>
     <mask>*effects.ts</mask>
     <mask>*component.spec.ts</mask>
-    <mask>*spec.ts</mask>
     <mask>*actions.ts</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
     <mask>*module.ts</mask>
     <mask>*reducer.ts</mask>
+    <mask>*spec.ts</mask>
   </component>
 </application>
