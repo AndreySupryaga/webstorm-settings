@@ -48,5 +48,6 @@
     <mask>*spec.ts</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*dialog.ts</mask>
   </component>
 </application>
