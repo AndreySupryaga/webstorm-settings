@@ -50,8 +50,8 @@
     <mask>*reducer.ts</mask>
     <mask>*.scss</mask>
     <mask>*spec.ts</mask>
-    <mask>*.html</mask>
     <mask>*dialog.ts</mask>
+    <mask>*.html</mask>
     <mask>*.ts</mask>
   </component>
 </application>
