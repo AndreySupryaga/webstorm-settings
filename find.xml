@@ -49,8 +49,8 @@
     <mask>*.scss</mask>
     <mask>*dialog.component.ts</mask>
     <mask>*spec.ts</mask>
-    <mask>*.html</mask>
     <mask>*actions.ts</mask>
+    <mask>*.html</mask>
     <mask>*.ts</mask>
   </component>
 </application>
