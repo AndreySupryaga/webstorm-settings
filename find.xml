@@ -2,12 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -41,7 +38,6 @@
     <mask>*service.ts</mask>
     <mask>*component.ts</mask>
     <mask>*dialog*.html</mask>
-    <mask>*.json</mask>
     <mask>*effects.ts</mask>
     <mask>*component.spec.ts</mask>
     <mask>*module.ts</mask>
@@ -53,5 +49,6 @@
     <mask>*actions.ts</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
