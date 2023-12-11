@@ -49,8 +49,8 @@
     <mask>*actions.ts</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*spec.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
