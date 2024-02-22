@@ -38,7 +38,6 @@
     <mask>*component.ts</mask>
     <mask>*dialog*.html</mask>
     <mask>*component.spec.ts</mask>
-    <mask>*module.ts</mask>
     <mask>*reducer.ts</mask>
     <mask>*dialog.ts</mask>
     <mask>*dialog.component.ts</mask>
@@ -50,6 +49,7 @@
     <mask>*.scss</mask>
     <mask>*entity.service.ts</mask>
     <mask>*.html</mask>
+    <mask>*module.ts</mask>
     <mask>*.ts</mask>
   </component>
 </application>
