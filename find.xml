@@ -42,13 +42,13 @@
     <mask>*dialog.ts</mask>
     <mask>*dialog.component.ts</mask>
     <mask>*actions.ts</mask>
-    <mask>*.json</mask>
     <mask>*service.ts</mask>
     <mask>*.scss</mask>
     <mask>*module.ts</mask>
     <mask>*spec.ts</mask>
     <mask>*entity.service.ts</mask>
     <mask>*effects.ts</mask>
+    <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
   </component>
