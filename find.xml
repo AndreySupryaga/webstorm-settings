@@ -45,11 +45,11 @@
     <mask>*module.ts</mask>
     <mask>*entity.service.ts</mask>
     <mask>*effects.ts</mask>
-    <mask>*.json</mask>
     <mask>*spec.ts</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
+    <mask>*.json</mask>
     <mask>*.ts</mask>
   </component>
 </application>
