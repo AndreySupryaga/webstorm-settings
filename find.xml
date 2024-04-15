@@ -51,8 +51,8 @@
     <mask>*.scss</mask>
     <mask>*effects.ts</mask>
     <mask>*spec.ts</mask>
-    <mask>*.html</mask>
     <mask>*.json</mask>
+    <mask>*.html</mask>
     <mask>*.ts</mask>
   </component>
 </application>
