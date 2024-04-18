@@ -9,6 +9,8 @@
     <context>
       <option name="JS_CLASS_MEMBER_EXPRESSION" value="true" />
       <option name="JS_CLASS_MEMBER_STATEMENT" value="true" />
+      <option name="TS_CLASS_MEMBER_EXPRESSION" value="true" />
+      <option name="TS_CLASS_MEMBER_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
