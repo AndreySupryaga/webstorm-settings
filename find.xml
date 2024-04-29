@@ -45,11 +45,11 @@
     <mask>*.css</mask>
     <mask>*cy.ts</mask>
     <mask>*effects.ts</mask>
-    <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*entity.service.ts</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*spec.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
