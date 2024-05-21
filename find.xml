@@ -50,8 +50,8 @@
     <mask>*entity.service.ts</mask>
     <mask>*spec.ts</mask>
     <mask>*.json</mask>
-    <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
