@@ -47,7 +47,6 @@
     <mask>*module.ts</mask>
     <mask>*.css</mask>
     <mask>*cy.ts</mask>
-    <mask>*effects.ts</mask>
     <mask>*entity.service.ts</mask>
     <mask>*reducer.ts</mask>
     <mask>*spec.ts</mask>
@@ -55,5 +54,7 @@
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*effects.ts</mask>
+    <mask>*dialog.component.html</mask>
   </component>
 </application>
