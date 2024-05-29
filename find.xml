@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*component.ts" />
+    <option name="FILE_MASK" value="*entity.service.ts" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -47,7 +47,6 @@
     <mask>*module.ts</mask>
     <mask>*.css</mask>
     <mask>*cy.ts</mask>
-    <mask>*entity.service.ts</mask>
     <mask>*reducer.ts</mask>
     <mask>*spec.ts</mask>
     <mask>*.ts</mask>
@@ -57,5 +56,6 @@
     <mask>*dialog.component.html</mask>
     <mask>*.json</mask>
     <mask>*component.ts</mask>
+    <mask>*entity.service.ts</mask>
   </component>
 </application>
