@@ -54,8 +54,8 @@
     <mask>*.json</mask>
     <mask>*component.ts</mask>
     <mask>*entity.service.ts</mask>
+    <mask>*he.json</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
-    <mask>*he.json</mask>
   </component>
 </application>
