@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*effects.ts" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -45,7 +46,6 @@
     <mask>*cy.ts</mask>
     <mask>*reducer.ts</mask>
     <mask>*.ts</mask>
-    <mask>*effects.ts</mask>
     <mask>*dialog.component.html</mask>
     <mask>*component.ts</mask>
     <mask>*entity.service.ts</mask>
@@ -55,5 +55,6 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*spec.ts</mask>
+    <mask>*effects.ts</mask>
   </component>
 </application>
