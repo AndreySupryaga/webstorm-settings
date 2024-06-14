@@ -44,7 +44,6 @@
     <mask>*component.ts</mask>
     <mask>*he.json</mask>
     <mask>*.json</mask>
-    <mask>*spec.ts</mask>
     <mask>*reducer.ts</mask>
     <mask>*effects.ts</mask>
     <mask>*.html</mask>
@@ -54,5 +53,6 @@
     <mask>*pup.ts</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
+    <mask>*spec.ts</mask>
   </component>
 </application>
