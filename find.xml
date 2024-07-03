@@ -43,7 +43,6 @@
     <mask>*dialog.component.html</mask>
     <mask>*component.ts</mask>
     <mask>*he.json</mask>
-    <mask>*.json</mask>
     <mask>*reducer.ts</mask>
     <mask>*cy.ts</mask>
     <mask>*entity.service.ts</mask>
@@ -51,8 +50,9 @@
     <mask>*pup.ts</mask>
     <mask>*.ts</mask>
     <mask>*spec.ts</mask>
-    <mask>*effects.ts</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.json</mask>
+    <mask>*effects.ts</mask>
   </component>
 </application>
