@@ -54,5 +54,7 @@
     <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*effects.ts</mask>
+    <mask>*resolv.service.ts</mask>
+    <mask>*resolver.service.ts</mask>
   </component>
 </application>
