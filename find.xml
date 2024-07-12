@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.php5</mask>
@@ -42,18 +40,21 @@
     <mask>*service.ts</mask>
     <mask>*module.ts</mask>
     <mask>*.css</mask>
-    <mask>*cy.ts</mask>
-    <mask>*.ts</mask>
     <mask>*dialog.component.html</mask>
     <mask>*component.ts</mask>
-    <mask>*entity.service.ts</mask>
     <mask>*he.json</mask>
-    <mask>*.scss</mask>
-    <mask>*.html</mask>
-    <mask>*.json</mask>
-    <mask>*.js</mask>
-    <mask>*spec.ts</mask>
     <mask>*reducer.ts</mask>
+    <mask>*cy.ts</mask>
+    <mask>*entity.service.ts</mask>
+    <mask>*.js</mask>
+    <mask>*pup.ts</mask>
+    <mask>*.ts</mask>
+    <mask>*spec.ts</mask>
+    <mask>*.html</mask>
+    <mask>*.scss</mask>
+    <mask>*.json</mask>
     <mask>*effects.ts</mask>
+    <mask>*resolv.service.ts</mask>
+    <mask>*resolver.service.ts</mask>
   </component>
 </application>
