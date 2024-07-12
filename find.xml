@@ -54,7 +54,7 @@
     <mask>*effects.ts</mask>
     <mask>*resolv.service.ts</mask>
     <mask>*resolver.service.ts</mask>
-    <mask>*.html</mask>
     <mask>*spec.ts</mask>
+    <mask>*.html</mask>
   </component>
 </application>
