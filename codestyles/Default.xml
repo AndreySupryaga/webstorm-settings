@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <Angular2HtmlCodeStyleSettings>
+    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="false" />
+  </Angular2HtmlCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
