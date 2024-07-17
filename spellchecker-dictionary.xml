@@ -16,6 +16,7 @@
       <w>prescheduled</w>
       <w>reinvoice</w>
       <w>statable</w>
+      <w>toastr</w>
       <w>worklist</w>
     </words>
   </component>
