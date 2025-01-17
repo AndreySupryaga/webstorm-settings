@@ -1,5 +1,5 @@
 <templateSet group="Angular">
-  <template name="if" value="@if ($CONDITION$) {&#10;    $END$&#10;}" description="*ngIf" toReformat="false" toShortenFQNames="true">
+  <template name="if" value="@if ($CONDITION$) {&#10;    $END$&#10;}" description="@if()" toReformat="false" toShortenFQNames="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
@@ -9,6 +9,13 @@
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="IF_CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="IFCONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="ifas" value="@if ($CONDITION$; as $VAR$) {&#10;    $END$&#10;}" description="@ifas" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>

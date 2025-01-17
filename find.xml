@@ -48,7 +48,6 @@
     <mask>*pup.ts</mask>
     <mask>*resolv.service.ts</mask>
     <mask>*resolver.service.ts</mask>
-    <mask>*effects.ts</mask>
     <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
@@ -56,5 +55,6 @@
     <mask>*.html</mask>
     <mask>*spec.ts</mask>
     <mask>*.ts</mask>
+    <mask>*effects.ts</mask>
   </component>
 </application>
