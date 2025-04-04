@@ -44,17 +44,17 @@
     <mask>*component.ts</mask>
     <mask>*he.json</mask>
     <mask>*reducer.ts</mask>
-    <mask>*cy.ts</mask>
     <mask>*entity.service.ts</mask>
-    <mask>*.js</mask>
     <mask>*pup.ts</mask>
-    <mask>*.ts</mask>
-    <mask>*spec.ts</mask>
-    <mask>*.html</mask>
-    <mask>*.scss</mask>
-    <mask>*.json</mask>
-    <mask>*effects.ts</mask>
     <mask>*resolv.service.ts</mask>
     <mask>*resolver.service.ts</mask>
+    <mask>*.scss</mask>
+    <mask>*.json</mask>
+    <mask>*.js</mask>
+    <mask>*cy.ts</mask>
+    <mask>*.html</mask>
+    <mask>*spec.ts</mask>
+    <mask>*effects.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
