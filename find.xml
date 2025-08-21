@@ -54,7 +54,7 @@
     <mask>*cy.ts</mask>
     <mask>*.html</mask>
     <mask>*spec.ts</mask>
-    <mask>*effects.ts</mask>
     <mask>*.ts</mask>
+    <mask>*effects.ts</mask>
   </component>
 </application>
