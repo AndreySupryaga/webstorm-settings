@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.php5</mask>
     <mask>*.module</mask>
     <mask>*.phtml</mask>
@@ -54,7 +55,7 @@
     <mask>*cy.ts</mask>
     <mask>*.html</mask>
     <mask>*spec.ts</mask>
-    <mask>*.ts</mask>
     <mask>*effects.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
