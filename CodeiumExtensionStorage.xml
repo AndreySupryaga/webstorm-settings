@@ -1,6 +1,6 @@
 <application>
   <component name="com.codeium.intellij.utilities.ExtensionStorage">
-    <option name="cascadeModelExplicitlySet" value="false" />
+    <option name="cascadeModelExplicitlySet" value="true" />
     <option name="cascadeOnboardingCompleted" value="true" />
     <option name="completedCascadeOnboardingItems">
       <list>
@@ -14,9 +14,9 @@
     <option name="lastChangelogVersionShown" value="2.12.22" />
     <option name="lastSelectedCascadeModelUids">
       <list>
-        <option value="314" />
-        <option value="0" />
-        <option value="246" />
+        <option value="adaptive" />
+        <option value="minimax-m2-5" />
+        <option value="MODEL_PRIVATE_4" />
       </list>
     </option>
     <option name="loggedFirstInstall" value="true" />
