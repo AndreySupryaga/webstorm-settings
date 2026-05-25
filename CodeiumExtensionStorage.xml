@@ -1,6 +1,6 @@
 <application>
   <component name="com.codeium.intellij.utilities.ExtensionStorage">
-    <option name="cascadeModelExplicitlySet" value="true" />
+    <option name="cascadeModelExplicitlySet" value="false" />
     <option name="cascadeOnboardingCompleted" value="true" />
     <option name="completedCascadeOnboardingItems">
       <list>
