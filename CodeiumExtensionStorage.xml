@@ -14,9 +14,9 @@
     <option name="lastChangelogVersionShown" value="2.13.33" />
     <option name="lastSelectedCascadeModelUids">
       <list>
+        <option value="swe-1-6-slow" />
         <option value="kimi-k2-6" />
         <option value="adaptive" />
-        <option value="minimax-m2-5" />
       </list>
     </option>
     <option name="loggedFirstInstall" value="true" />
